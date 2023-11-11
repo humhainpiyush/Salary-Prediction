@@ -1,2 +1,1 @@
-
-Salary prediction based on experiences
+# Salary prediction
